@@ -1,8 +1,7 @@
 import { create } from "zustand";
 import { persist } from "zustand/middleware";
-import type { User } from "./firebase";
-import { auth } from '@/lib/firebase'
-
+import type { User } from "@/lib/firebase";
+import { auth } from "@/lib/firebase";
 
 export interface UserProfile {
   name: string; age: number; income: number; expenses: number;
