@@ -1,6 +1,8 @@
 # Money Mentor v2 — AI Financial Planning
 
 > Clean white dashboard · Firebase authentication · Gemini AI · Floating chatbot
+## Demo
+> https://et-ai-money-mentor.vercel.app/
 
 ## Tech Stack
 
